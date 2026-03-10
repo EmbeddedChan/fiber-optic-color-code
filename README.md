@@ -8,4 +8,4 @@ Developed and maintained by **EmbeddedChan**.
 
 Latest Beta Version:
 
-[Download EC-Fiber-Colors-v0.5.3.apk](https://github.com/EmbeddedChan/multi-usb-serial-terminal/raw/main/apk/EC-Fiber-Colors-v0.5.3.apk)
+[Download EC-Fiber-Colors-v0.5.3.apk](https://github.com/EmbeddedChan/fiber-optic-color-code/raw/main/apk/EC-Fiber-Colors-v0.5.3.apk)
