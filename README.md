@@ -41,6 +41,16 @@ Latest Version:
    Export and import application data.
 
 
+## Version History
+
+### v0.6.0
+Added
+- Features 5,6,8,9
+
+### v0.5.
+- Initial release
+
+
 ## 🖼 UI Preview
 
 ![Screen 1](images/Screenshot_1.jpg)
