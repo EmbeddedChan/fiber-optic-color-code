@@ -28,16 +28,19 @@ Latest Version:
 5. **Fiber Mapping**  
    Supports cable-to-cable fiber mapping with configurable **offset** and **mapping count**.
 
-6. **Cable and Mapping Management**  
+6. **Fiber Mapping PDF Export**  
+   Export fiber mapping results as a **PDF report**.
+
+7. **Cable and Mapping Management**  
    Manage cable and mapping lists, including **add**, **delete**, and **select**.
 
-7. **Fiber Notes**  
+8. **Fiber Notes**  
    Add and manage notes for individual fibers.
 
-8. **OTDR SOR File Viewer**  
+9. **OTDR SOR File Viewer**  
    Import **OTDR SOR files** and display the fiber trace curve.
 
-9. **App Data Import and Export**  
+10. **App Data Import and Export**  
    Export and import application data.
 
 
@@ -45,9 +48,9 @@ Latest Version:
 
 ### v0.6.0
 Added
-- Features 5,6,8,9
+- Features 5,6,7,9,10
 
-### v0.5.
+### v0.5.3
 - Initial release
 
 
