@@ -8,7 +8,7 @@ Developed and maintained by **EmbeddedChan**.
 
 Latest Version:
 
-[Download EC-Fiber-Colors-v0.6.1.apk](https://github.com/EmbeddedChan/fiber-optic-color-code/raw/main/apk/EC-Fiber-Colors-v0.6.1.apk)
+[Download EC-Fiber-Colors-v0.6.2.apk](https://github.com/EmbeddedChan/fiber-optic-color-code/raw/main/apk/EC-Fiber-Colors-v0.6.2.apk)
 
 ## Features
 
@@ -45,6 +45,9 @@ Latest Version:
 
 
 ## Version History
+### v0.6.2
+
+Bug fix: fixed an issue where the remark was lost when saving a remark and importing a SOR file for the first time simultaneously.
 
 ### v0.6.1
 - Fixed an issue where the offset in Mapping A/B cable was incorrectly applied to the opposite side.
