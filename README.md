@@ -7,6 +7,7 @@ Developed and maintained by **EmbeddedChan**.
 ## 📥 Download
 
 Latest Version:
+“>144 fibers & import feature are Pro-only.”
 
 [Download EC-Fiber-Colors-v0.6.2.apk](https://github.com/EmbeddedChan/fiber-optic-color-code/raw/main/apk/EC-Fiber-Colors-v0.6.2.apk)
 
