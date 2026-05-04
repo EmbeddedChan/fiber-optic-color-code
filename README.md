@@ -48,6 +48,7 @@ Fiber counts above 144 and the import feature are available in the Pro version.
 
 ## Version History
 ### v0.7.1
+- New: Integrated multiple fiber color code standards and common cable types
 - New: Save current active Fiber Cable ID  
 - New: Save current active Mapping (A/B) Cable ID  
 - New: Ribbon fiber color block display  
