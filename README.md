@@ -11,7 +11,29 @@ Latest Version:
 
 [Download EC-Fiber-Colors-v0.7.1.apk](https://github.com/EmbeddedChan/fiber-optic-color-code/raw/main/apk/EC-Fiber-Colors-v0.7.1.apk)
 
-Fiber counts above 144 and the import feature are available in the Pro version.
+
+## Version History
+### v0.7.1
+- New: Integrated multiple fiber color code standards and common cable types
+- New: Save current active Fiber Cable ID  
+- New: Save current active Mapping (A/B) Cable ID  
+- New: Ribbon fiber block code display  
+- New: Tools Toolbox (fiber utility tools) 
+
+### v0.6.2
+
+Bug fix: fixed an issue where the remark was lost when saving a remark and importing a SOR file for the first time simultaneously.
+
+### v0.6.1
+- Fixed an issue where the offset in Mapping A/B cable was incorrectly applied to the opposite side.
+
+### v0.6.0
+Added
+- Features 5,6,7,9,10
+
+### v0.5.3
+- Initial release
+
 ## Features
 
 1. **Custom Color Definitions**  
@@ -45,28 +67,6 @@ Fiber counts above 144 and the import feature are available in the Pro version.
 10. **App Data Import and Export**  
    Export and import application data.
 
-
-## Version History
-### v0.7.1
-- New: Integrated multiple fiber color code standards and common cable types
-- New: Save current active Fiber Cable ID  
-- New: Save current active Mapping (A/B) Cable ID  
-- New: Ribbon fiber block code display  
-- New: Tools Toolbox (fiber utility tools) 
-
-### v0.6.2
-
-Bug fix: fixed an issue where the remark was lost when saving a remark and importing a SOR file for the first time simultaneously.
-
-### v0.6.1
-- Fixed an issue where the offset in Mapping A/B cable was incorrectly applied to the opposite side.
-
-### v0.6.0
-Added
-- Features 5,6,7,9,10
-
-### v0.5.3
-- Initial release
 
 
 ## 🖼 UI Preview
