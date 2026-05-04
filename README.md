@@ -47,6 +47,12 @@ Fiber counts above 144 and the import feature are available in the Pro version.
 
 
 ## Version History
+### v0.7.1
+- New: Save current active Fiber Cable ID  
+- New: Save current active Mapping (A/B) Cable ID  
+- New: Ribbon fiber color block display  
+- New: Tools Toolbox (fiber utility tools) 
+
 ### v0.6.2
 
 Bug fix: fixed an issue where the remark was lost when saving a remark and importing a SOR file for the first time simultaneously.
