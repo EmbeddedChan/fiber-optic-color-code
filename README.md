@@ -70,6 +70,11 @@ Added
 
 
 ## 🖼 UI Preview
+![Screen 1](images/Screenshot_10.jpg)
+
+![Screen 2](images/Screenshot_8.jpg)
+
+![Screen 3](images/Screenshot_9.jpg)
 
 ![Screen 1](images/Screenshot_1.jpg)
 
