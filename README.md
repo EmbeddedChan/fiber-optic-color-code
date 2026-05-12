@@ -1,5 +1,6 @@
  # EC Fiber Colors
 
+This app has been integrated into EC-OpticKit.
 **EC Fiber Colors** is a small Android app for managing fiber colors easier and helps quickly locate specific fibers, improving efficiency in both projects and maintenance.
 
 Developed and maintained by **EmbeddedChan**.
