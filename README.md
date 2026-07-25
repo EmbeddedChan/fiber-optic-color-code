@@ -8,12 +8,6 @@ https://github.com/EmbeddedChan/otdr-sor-viewer
 
 Developed and maintained by **EmbeddedChan**.
 
-## 📥 Download
-
-Latest Version:
-
-
-[Download EC-Fiber-Colors-v0.7.1.apk](https://github.com/EmbeddedChan/fiber-optic-color-code/raw/main/apk/EC-Fiber-Colors-v0.7.1.apk)
 
 
 ## Version History
