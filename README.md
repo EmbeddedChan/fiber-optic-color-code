@@ -1,7 +1,7 @@
  # EC Fiber Colors
 
-This app has been integrated into EC-OpticKit.
-👉 **EC-OpticKit**  
+This app has been integrated into EC-FusionKit.
+👉 **EC-FusionKit**  
 https://github.com/EmbeddedChan/otdr-sor-viewer
 
 **EC Fiber Colors** is a small Android app for managing fiber colors easier and helps quickly locate specific fibers, improving efficiency in both projects and maintenance.
